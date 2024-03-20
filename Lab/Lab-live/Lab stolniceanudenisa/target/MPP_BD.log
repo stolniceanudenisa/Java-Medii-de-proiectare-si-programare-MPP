@@ -1,0 +1,577 @@
+10 Mar 2024 16:56:20,470 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2024 16:56:20,475 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 16:56:20,475 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 16:56:20,475 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 Mar 2024 16:56:20,476 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 16:56:20,476 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 16:56:20,477 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2024 16:56:20,478 TRACE org.example.JdbcUtils 57 getConnection - Exit
+10 Mar 2024 16:57:09,196 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2024 16:57:19,023 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2024 16:57:35,609 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2024 16:58:17,501 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2024 16:58:30,448 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2024 17:00:56,493 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2024 17:01:20,241 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2024 17:10:17,005 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2024 17:10:44,803 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2024 17:12:14,236 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2024 17:14:34,118 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:14:47,718 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:14:47,722 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:14:47,723 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:14:47,723 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:14:47,723 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:14:47,723 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:14:47,750 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: 'C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config': The filename, directory name, or volume label syntax is incorrect
+10 Mar 2024 17:14:47,751 TRACE org.example.JdbcUtils 57 getConnection - Exit
+10 Mar 2024 17:15:13,415 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:15:13,422 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:15:13,422 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:15:13,422 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:15:13,423 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:15:13,423 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:15:13,450 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: 'C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config': The filename, directory name, or volume label syntax is incorrect
+10 Mar 2024 17:15:13,452 TRACE org.example.JdbcUtils 57 getConnection - Exit
+10 Mar 2024 17:15:20,272 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:15:20,277 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:15:20,277 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:15:20,277 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:15:20,277 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:15:20,277 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:15:20,297 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: 'C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config': The filename, directory name, or volume label syntax is incorrect
+10 Mar 2024 17:15:20,298 TRACE org.example.JdbcUtils 57 getConnection - Exit
+10 Mar 2024 17:24:25,770 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:24:25,775 TRACE org.example.CarsDBRepository 164 findAll - Enter
+10 Mar 2024 17:24:25,775 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:24:25,775 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:24:25,775 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:24:25,775 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:24:25,776 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:24:25,796 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: 'C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config': The filename, directory name, or volume label syntax is incorrect
+10 Mar 2024 17:24:25,797 TRACE org.example.JdbcUtils 57 getConnection - Exit
+10 Mar 2024 17:26:57,314 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:26:57,320 TRACE org.example.CarsDBRepository 164 findAll - Enter
+10 Mar 2024 17:26:57,321 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:26:57,321 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:26:57,321 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:26:57,321 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:26:57,321 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:26:57,349 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: 'C:Users40766IdeaProjects	eme-lab-stolniceanudenisabd.config': The filename, directory name, or volume label syntax is incorrect
+10 Mar 2024 17:26:57,349 TRACE org.example.JdbcUtils 57 getConnection - Exit
+10 Mar 2024 17:28:42,329 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:28:42,334 TRACE org.example.CarsDBRepository 164 findAll - Enter
+10 Mar 2024 17:28:42,334 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:28:42,334 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:28:42,335 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:28:42,335 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:28:42,335 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:28:42,485 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5b38c1ec)
+10 Mar 2024 17:28:42,490 ERROR org.example.CarsDBRepository 180 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+10 Mar 2024 17:28:42,491 TRACE org.example.CarsDBRepository 183 findAll - Exit with([])
+10 Mar 2024 17:29:09,483 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:29:09,487 TRACE org.example.CarsDBRepository 164 findAll - Enter
+10 Mar 2024 17:29:09,487 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:29:09,487 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:29:09,488 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:29:09,488 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:29:09,488 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:29:09,627 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5b38c1ec)
+10 Mar 2024 17:29:09,631 ERROR org.example.CarsDBRepository 180 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+10 Mar 2024 17:29:09,632 TRACE org.example.CarsDBRepository 183 findAll - Exit with([])
+10 Mar 2024 17:29:27,205 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:29:27,210 TRACE org.example.CarsDBRepository 164 findAll - Enter
+10 Mar 2024 17:29:27,211 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:29:27,211 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:29:27,211 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:29:27,211 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:29:27,212 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:29:27,347 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5b38c1ec)
+10 Mar 2024 17:29:27,354 ERROR org.example.CarsDBRepository 180 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+10 Mar 2024 17:29:27,355 TRACE org.example.CarsDBRepository 183 findAll - Exit with([])
+10 Mar 2024 17:30:16,716 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:30:16,720 TRACE org.example.CarsDBRepository 164 findAll - Enter
+10 Mar 2024 17:30:16,720 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:30:16,720 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:30:16,721 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:30:16,721 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:30:16,721 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:30:16,850 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5b38c1ec)
+10 Mar 2024 17:30:16,855 ERROR org.example.CarsDBRepository 180 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+10 Mar 2024 17:30:16,856 TRACE org.example.CarsDBRepository 183 findAll - Exit with([])
+10 Mar 2024 17:30:16,856 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:30:16,856 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5b38c1ec)
+10 Mar 2024 17:30:31,819 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:30:31,825 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:30:31,825 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:30:31,825 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:30:31,826 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:30:31,826 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:30:31,957 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4722ef0c)
+10 Mar 2024 17:30:31,961 TRACE org.example.CarsDBRepository 164 findAll - Enter
+10 Mar 2024 17:30:31,961 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:30:31,962 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:30:31,962 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:30:31,962 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:30:31,962 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:30:31,963 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@14fc5f04)
+10 Mar 2024 17:30:31,965 ERROR org.example.CarsDBRepository 180 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+10 Mar 2024 17:30:31,965 TRACE org.example.CarsDBRepository 183 findAll - Exit with([])
+10 Mar 2024 17:31:17,805 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:31:17,810 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:31:17,810 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:31:17,810 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:31:17,810 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:31:17,811 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:31:17,931 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4722ef0c)
+10 Mar 2024 17:31:17,936 TRACE org.example.CarsDBRepository 164 findAll - Enter
+10 Mar 2024 17:31:17,936 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:31:17,936 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:31:17,936 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:31:17,937 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:31:17,937 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:31:17,938 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@14fc5f04)
+10 Mar 2024 17:31:17,939 ERROR org.example.CarsDBRepository 180 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+10 Mar 2024 17:31:17,939 TRACE org.example.CarsDBRepository 183 findAll - Exit with([])
+10 Mar 2024 17:33:28,947 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:33:28,958 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:33:28,958 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:33:28,959 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:33:28,959 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:33:28,959 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:33:29,250 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4722ef0c)
+10 Mar 2024 17:33:29,257 TRACE org.example.CarsDBRepository 164 findAll - Enter
+10 Mar 2024 17:33:29,258 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:33:29,258 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:33:29,258 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:33:29,258 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:33:29,259 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:33:29,260 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@14fc5f04)
+10 Mar 2024 17:33:29,285 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:33:29,286 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:33:29,287 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:33:29,287 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:33:29,288 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:33:29,290 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@55de24cc)
+10 Mar 2024 17:33:29,292 TRACE org.example.CarsDBRepository 186 findAll - Exit with([])
+10 Mar 2024 17:33:44,148 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:33:44,154 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:33:44,155 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:33:44,155 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:33:44,155 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:33:44,156 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:33:44,312 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4722ef0c)
+10 Mar 2024 17:33:44,318 TRACE org.example.CarsDBRepository 164 findAll - Enter
+10 Mar 2024 17:33:44,318 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:33:44,319 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:33:44,319 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:33:44,319 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:33:44,319 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:33:44,320 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@14fc5f04)
+10 Mar 2024 17:33:44,322 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:33:44,322 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:33:44,323 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:33:44,323 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:33:44,323 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:33:44,324 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@55de24cc)
+10 Mar 2024 17:33:44,325 TRACE org.example.CarsDBRepository 186 findAll - Exit with([])
+10 Mar 2024 17:34:38,703 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:34:38,708 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:34:38,708 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:34:38,708 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:34:38,709 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:34:38,709 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:34:38,847 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4722ef0c)
+10 Mar 2024 17:34:38,850 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:34:38,850 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4722ef0c)
+10 Mar 2024 17:34:38,853 TRACE org.example.CarsDBRepository 164 findAll - Enter
+10 Mar 2024 17:34:38,853 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:34:38,853 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:34:38,853 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:34:38,854 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:34:38,854 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:34:38,855 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d554c5f)
+10 Mar 2024 17:34:38,856 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:34:38,856 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:34:38,856 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:34:38,857 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:34:38,857 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:34:38,858 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3feb2dda)
+10 Mar 2024 17:34:38,858 TRACE org.example.CarsDBRepository 186 findAll - Exit with([])
+10 Mar 2024 17:37:40,258 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:37:40,264 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:37:40,264 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:37:40,264 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:37:40,265 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:37:40,265 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:37:40,434 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4722ef0c)
+10 Mar 2024 17:37:40,437 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:37:40,438 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4722ef0c)
+10 Mar 2024 17:37:40,439 TRACE org.example.CarsDBRepository 164 findAll - Enter
+10 Mar 2024 17:37:40,440 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:37:40,440 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:37:40,440 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:37:40,440 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:37:40,440 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:37:40,442 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@d554c5f)
+10 Mar 2024 17:37:40,442 TRACE org.example.CarsDBRepository 186 findAll - Exit with([])
+10 Mar 2024 17:39:35,695 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:39:35,707 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:39:35,707 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:39:35,708 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:39:35,708 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:39:35,708 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:39:35,866 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4722ef0c)
+10 Mar 2024 17:39:35,885 TRACE org.example.CarsDBRepository 164 findAll - Enter
+10 Mar 2024 17:39:35,885 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:39:35,885 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:39:35,885 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:39:35,886 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:39:35,886 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:39:35,887 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@14fc5f04)
+10 Mar 2024 17:39:35,888 TRACE org.example.CarsDBRepository 186 findAll - Exit with([])
+10 Mar 2024 17:41:07,785 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:41:07,797 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:41:07,798 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:41:07,798 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:41:07,798 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:41:07,799 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:41:08,992 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4722ef0c)
+10 Mar 2024 17:41:09,103 INFO  org.example.CarsDBRepository 128 add - Car added successfully: Id=0 Teslaaaaa Model Sssss 2013
+10 Mar 2024 17:41:09,104 TRACE org.example.CarsDBRepository 184 findAll - Enter
+10 Mar 2024 17:41:09,104 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:41:09,104 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:41:09,105 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:41:09,105 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:41:09,105 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:41:09,108 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6a8658ff)
+10 Mar 2024 17:41:09,111 TRACE org.example.CarsDBRepository 206 findAll - Exit with([Id=1 Teslaaaaa Model Sssss 2013])
+10 Mar 2024 17:41:43,221 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:41:43,226 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:41:43,227 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:41:43,227 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:41:43,227 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:41:43,227 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:41:43,361 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4722ef0c)
+10 Mar 2024 17:41:43,383 INFO  org.example.CarsDBRepository 128 add - Car added successfully: Id=0 Teslaaaaa Model Sssss 2013
+10 Mar 2024 17:41:43,384 TRACE org.example.CarsDBRepository 184 findAll - Enter
+10 Mar 2024 17:41:43,384 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:41:43,384 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:41:43,385 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:41:43,385 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:41:43,385 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:41:43,387 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@6a8658ff)
+10 Mar 2024 17:41:43,388 TRACE org.example.CarsDBRepository 206 findAll - Exit with([Id=1 Teslaaaaa Model Sssss 2013, Id=2 Teslaaaaa Model Sssss 2013])
+10 Mar 2024 17:42:59,254 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:42:59,260 TRACE org.example.CarsDBRepository 184 findAll - Enter
+10 Mar 2024 17:42:59,260 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:42:59,261 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:42:59,261 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:42:59,261 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:42:59,261 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:42:59,420 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5b38c1ec)
+10 Mar 2024 17:42:59,429 TRACE org.example.CarsDBRepository 206 findAll - Exit with([Id=1 Teslaaaaa Model Sssss 2013, Id=2 Teslaaaaa Model Sssss 2013])
+10 Mar 2024 17:44:04,090 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 17:44:04,096 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 17:44:04,096 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 17:44:04,096 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 17:44:04,097 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 17:44:04,097 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 17:44:04,249 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5b38c1ec)
+10 Mar 2024 18:03:08,976 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 18:03:08,981 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:03:08,981 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:03:08,981 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:03:08,982 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:03:08,982 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:03:09,143 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5b38c1ec)
+10 Mar 2024 18:05:37,403 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 18:05:57,203 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 18:05:57,208 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:05:57,208 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:05:57,208 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:05:57,208 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:05:57,208 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:05:57,401 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5b38c1ec)
+10 Mar 2024 18:05:57,403 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:05:57,404 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:05:57,404 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:05:57,404 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:05:57,405 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:05:57,407 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@480d3575)
+10 Mar 2024 18:06:42,891 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 18:06:42,895 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:06:42,896 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:06:42,896 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:06:42,896 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:06:42,896 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:06:43,047 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5b38c1ec)
+10 Mar 2024 18:06:43,049 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:06:43,049 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:06:43,049 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:06:43,049 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:06:43,050 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:06:43,051 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@480d3575)
+10 Mar 2024 18:06:43,071 INFO  org.example.CarsDBRepository 234 clear - All records deleted from the cars table.
+10 Mar 2024 18:06:43,071 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:06:43,072 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:06:43,072 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:06:43,072 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:06:43,073 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:06:43,074 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+10 Mar 2024 18:06:49,458 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 18:06:49,463 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:06:49,463 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:06:49,464 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:06:49,464 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:06:49,464 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:06:49,744 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5b38c1ec)
+10 Mar 2024 18:06:49,748 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:06:49,748 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:06:49,748 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:06:49,749 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:06:49,749 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:06:49,751 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@480d3575)
+10 Mar 2024 18:08:10,671 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 18:08:10,676 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:08:10,676 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:08:10,677 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:08:10,677 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:08:10,677 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:08:10,850 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5b38c1ec)
+10 Mar 2024 18:08:10,854 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:08:10,854 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:08:10,854 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:08:10,855 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:08:10,855 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:08:10,856 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@194fad1)
+10 Mar 2024 18:08:10,882 INFO  org.example.CarsDBRepository 130 add - Car added successfully: Id=0 Dacia Sandero 2019
+10 Mar 2024 18:08:10,883 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:08:10,883 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:08:10,884 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:08:10,884 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:08:10,884 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:08:10,885 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@69c81773)
+10 Mar 2024 18:08:10,897 INFO  org.example.CarsDBRepository 130 add - Car added successfully: Id=0 Skoda Octavia 2020
+10 Mar 2024 18:08:10,898 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:08:10,898 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:08:10,898 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:08:10,899 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:08:10,899 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:08:10,900 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4d14b6c2)
+10 Mar 2024 18:08:28,729 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config} 
+10 Mar 2024 18:08:28,740 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:08:28,740 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:08:28,741 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:08:28,741 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:08:28,741 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:08:28,907 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5b38c1ec)
+10 Mar 2024 18:08:28,908 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:08:28,909 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:08:28,909 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:08:28,909 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:08:28,909 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:08:28,910 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@480d3575)
+10 Mar 2024 18:08:28,921 INFO  org.example.CarsDBRepository 234 clear - All records deleted from the cars table.
+10 Mar 2024 18:08:28,922 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 18:08:28,922 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 18:08:28,922 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisabd.config
+10 Mar 2024 18:08:28,923 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 18:08:28,923 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 18:08:28,924 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+10 Mar 2024 21:46:25,541 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db} 
+10 Mar 2024 21:46:25,546 TRACE org.example.CarsDBRepository 124 findAll - Enter
+10 Mar 2024 21:46:25,546 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:46:25,546 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:46:25,547 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:46:25,547 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:46:25,547 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:46:25,747 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4681c175)
+10 Mar 2024 21:46:25,752 ERROR org.example.CarsDBRepository 145 findAll - Error retrieving cars from the database: no such column: 'year'
+10 Mar 2024 21:46:25,753 TRACE org.example.CarsDBRepository 148 findAll - Exit with([])
+10 Mar 2024 21:47:09,377 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db} 
+10 Mar 2024 21:47:09,382 TRACE org.example.CarsDBRepository 124 findAll - Enter
+10 Mar 2024 21:47:09,382 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:47:09,382 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:47:09,383 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:47:09,383 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:47:09,383 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:47:09,532 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4681c175)
+10 Mar 2024 21:47:09,540 TRACE org.example.CarsDBRepository 148 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020])
+10 Mar 2024 21:47:17,793 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db} 
+10 Mar 2024 21:47:17,798 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:47:17,798 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:47:17,798 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:47:17,799 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:47:17,799 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:47:17,944 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@402c4085)
+10 Mar 2024 21:47:17,959 INFO  org.example.CarsDBRepository 96 add - Car added successfully: Id=0 Tesla Model S 2019
+10 Mar 2024 21:47:17,960 TRACE org.example.CarsDBRepository 124 findAll - Enter
+10 Mar 2024 21:47:17,960 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:47:17,960 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:47:17,960 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:47:17,960 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:47:17,961 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:47:17,962 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5ddeb7cb)
+10 Mar 2024 21:47:17,963 TRACE org.example.CarsDBRepository 148 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Tesla Model S 2019])
+10 Mar 2024 21:47:22,113 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db} 
+10 Mar 2024 21:47:22,118 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:47:22,119 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:47:22,119 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:47:22,119 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:47:22,120 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:47:22,435 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@402c4085)
+10 Mar 2024 21:47:22,458 INFO  org.example.CarsDBRepository 96 add - Car added successfully: Id=0 Tesla Model S 2019
+10 Mar 2024 21:47:22,460 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:47:22,460 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:47:22,461 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:47:22,461 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:47:22,462 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:47:22,463 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5ddeb7cb)
+10 Mar 2024 21:47:22,471 TRACE org.example.CarsDBRepository 124 findAll - Enter
+10 Mar 2024 21:47:22,472 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:47:22,472 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:47:22,472 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:47:22,473 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:47:22,473 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:47:22,475 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@70ed52de)
+10 Mar 2024 21:47:22,477 TRACE org.example.CarsDBRepository 148 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Opel Corsa 2023, Id=4 Tesla Model S 2019])
+10 Mar 2024 21:47:36,067 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db} 
+10 Mar 2024 21:47:36,072 TRACE org.example.CarsDBRepository 124 findAll - Enter
+10 Mar 2024 21:47:36,073 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:47:36,073 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:47:36,073 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:47:36,073 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:47:36,074 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:47:36,958 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4681c175)
+10 Mar 2024 21:47:36,991 TRACE org.example.CarsDBRepository 148 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Opel Corsa 2023, Id=4 Tesla Model S 2019])
+10 Mar 2024 21:47:36,991 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:47:36,992 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:47:36,992 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:47:36,993 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:47:36,993 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:47:36,994 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5ddeb7cb)
+10 Mar 2024 21:50:11,035 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db} 
+10 Mar 2024 21:50:11,044 TRACE org.example.CarsDBRepository 124 findAll - Enter
+10 Mar 2024 21:50:11,044 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:50:11,045 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:50:11,045 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:50:11,045 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:50:11,045 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:50:11,203 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4681c175)
+10 Mar 2024 21:50:11,212 TRACE org.example.CarsDBRepository 148 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Opel Corsa 2023, Id=4 Tesla Model S 2019])
+10 Mar 2024 21:50:11,213 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:50:11,213 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:50:11,213 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:50:11,213 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:50:11,214 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:50:11,214 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5ddeb7cb)
+10 Mar 2024 21:51:46,471 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db} 
+10 Mar 2024 21:51:46,475 TRACE org.example.CarsDBRepository 124 findAll - Enter
+10 Mar 2024 21:51:46,476 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:51:46,476 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:51:46,476 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:51:46,476 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:51:46,477 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:51:46,616 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4681c175)
+10 Mar 2024 21:51:46,624 TRACE org.example.CarsDBRepository 148 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Opel Corsa 2023, Id=4 Tesla Model S 2019])
+10 Mar 2024 21:51:46,625 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:51:46,625 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:51:46,625 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:51:46,626 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:51:46,626 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:51:46,627 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5ddeb7cb)
+10 Mar 2024 21:59:05,195 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db} 
+10 Mar 2024 21:59:05,201 TRACE org.example.CarsDBRepository 124 findAll - Enter
+10 Mar 2024 21:59:05,201 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:59:05,202 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:59:05,202 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:59:05,202 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:59:05,202 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:59:05,414 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4681c175)
+10 Mar 2024 21:59:05,426 TRACE org.example.CarsDBRepository 148 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Opel Corsa 2023, Id=4 Tesla Model S 2019])
+10 Mar 2024 21:59:05,427 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 21:59:05,428 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 21:59:05,428 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 21:59:05,428 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 21:59:05,429 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 21:59:05,430 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5ddeb7cb)
+10 Mar 2024 22:07:46,515 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db} 
+10 Mar 2024 22:07:46,521 TRACE org.example.CarsDBRepository 124 findAll - Enter
+10 Mar 2024 22:07:46,521 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 22:07:46,521 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 22:07:46,521 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 22:07:46,522 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 22:07:46,522 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 22:07:46,691 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4681c175)
+10 Mar 2024 22:07:46,701 TRACE org.example.CarsDBRepository 148 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Opel Corsa 2023, Id=4 Tesla Model S 2019])
+10 Mar 2024 22:07:46,701 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2024 22:07:46,701 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2024 22:07:46,701 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+10 Mar 2024 22:07:46,702 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2024 22:07:46,702 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2024 22:07:46,703 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5ddeb7cb)
+11 Mar 2024 22:12:47,809 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db} 
+11 Mar 2024 22:12:47,817 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 22:12:47,818 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 22:12:47,818 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+11 Mar 2024 22:12:47,818 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 22:12:47,819 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 22:12:48,376 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4681c175)
+11 Mar 2024 22:12:48,391 TRACE org.example.CarsDBRepository 148 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Opel Corsa 2023, Id=4 Tesla Model S 2019])
+11 Mar 2024 22:12:48,392 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 22:12:48,393 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 22:12:48,393 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+11 Mar 2024 22:12:48,393 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 22:12:48,394 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 22:12:48,395 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5ddeb7cb)
+11 Mar 2024 23:09:03,752 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db} 
+11 Mar 2024 23:09:03,759 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 23:09:03,759 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 23:09:03,759 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+11 Mar 2024 23:09:03,760 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 23:09:03,760 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 23:09:03,987 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4681c175)
+11 Mar 2024 23:09:03,998 TRACE org.example.CarsDBRepository 148 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Opel Corsa 2023, Id=4 Tesla Model S 2019])
+11 Mar 2024 23:09:03,998 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 23:09:03,998 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 23:09:03,999 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+11 Mar 2024 23:09:03,999 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 23:09:03,999 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 23:09:04,000 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5ddeb7cb)
+11 Mar 2024 23:09:37,040 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2024 23:09:37,045 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 23:09:37,045 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 23:09:37,046 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2024 23:09:37,046 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 23:09:37,046 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 23:09:37,050 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2024 23:09:37,051 TRACE org.example.JdbcUtils 57 getConnection - Exit
+11 Mar 2024 23:10:05,423 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db} 
+11 Mar 2024 23:10:05,429 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 23:10:05,429 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 23:10:05,429 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+11 Mar 2024 23:10:05,430 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 23:10:05,430 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 23:10:05,583 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4681c175)
+11 Mar 2024 23:10:05,593 TRACE org.example.CarsDBRepository 148 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Opel Corsa 2023, Id=4 Tesla Model S 2019])
+11 Mar 2024 23:10:05,594 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 23:10:05,594 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 23:10:05,594 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+11 Mar 2024 23:10:05,595 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 23:10:05,595 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 23:10:05,596 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5ddeb7cb)
+11 Mar 2024 23:10:11,090 INFO  org.example.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db} 
+11 Mar 2024 23:10:11,096 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 23:10:11,096 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 23:10:11,096 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+11 Mar 2024 23:10:11,096 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 23:10:11,097 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 23:10:11,232 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4681c175)
+11 Mar 2024 23:10:11,240 TRACE org.example.CarsDBRepository 148 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Opel Corsa 2023, Id=4 Tesla Model S 2019])
+11 Mar 2024 23:10:11,240 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2024 23:10:11,240 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2024 23:10:11,240 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\40766\IdeaProjects\teme-lab-stolniceanudenisa\lab1\cars.db
+11 Mar 2024 23:10:11,241 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2024 23:10:11,241 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2024 23:10:11,242 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5ddeb7cb)
